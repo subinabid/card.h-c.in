@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ansha Naji
+N:Naji;Ansha;;;
+ORG:Zerowatt Energy
+TITLE:CEO
+TEL;TYPE=WORK,VOICE:(111) 555-1212
+EMAIL;TYPE=PREF,INTERNET:ansha@zerowatt.energy
+END:VCARD

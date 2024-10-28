@@ -1,0 +1,114 @@
+body{
+    background-color: rgba(235, 238, 255, 1) !important;
+    color: #888ea8;
+}
+
+.hero {
+    padding-top: 20px;
+    background: #009688;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 12px;
+}
+
+.widget-content-area {
+    min-height: 790px;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    border: 1px solid #e0e6ed;
+    box-shadow: 0 0 40px 0 rgba(94, 92, 154, 0.06);
+    padding: 20px;
+    position: relative;
+    background-color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid #e0e6ed;
+    border-top: none;
+}
+
+.details {
+    position: relative;
+    top: 0;
+    right: 0;
+    display:block;
+}
+
+.user-info {
+    margin-top: 40px;
+}
+
+.user-info img {
+    border-radius: 9px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+    max-width: 315px;
+    max-height: 316px;
+    min-height: 316px;
+    margin: 0 auto;
+    display: block;
+}
+
+.user-info p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 12px;
+    margin-bottom: 4px !important;
+    color: #009688;
+}
+
+.user-info-list {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul.contacts-block {
+    border: none;
+    max-width: 315px;
+    margin: 12px 0 0 0;
+}
+
+ul.contacts-block li {
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+ul.contacts-block li a {
+    font-weight: 600;
+    font-size: 15px;
+    color: #009688;
+}
+
+.contacts-block i {
+    font-size: 1.5rem;
+    margin-right: 16px;
+}
+
+
+.list-inline i {
+    font-size: 2.5rem
+}
+
+.list-inline a {
+    display: inline-block;
+    text-decoration: double;
+    color: #009688;
+}
+
+.breadcrumb {
+    background-color: #fff;
+    padding: 20px;
+    position: relative;
+    background-color: #009688;
+    color: #fff;
+}
+
+.breadcrumb .breadcrumb-item {
+    color: #fff;
+}
+
+.breadcrumb .breadcrumb-item a {
+    color: #fff;
+}
